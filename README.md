@@ -1,4 +1,5 @@
 whats up this is my personal fork of forky station to mess around with
+To prevent people forking RobustToolbox, a "content" pack is loaded by the client and server. This content pack contains everything needed to play the game on one specific server.
 ## License
 
 This repository is MIT. See `LICENSES` for a copy of the MIT license.
