@@ -1,37 +1,4 @@
-<p align="center"> <img alt="Space Station 14" width="880" height="200" src="https://github.com/funky-station/funky-station/blob/master/Resources/Textures/Logo/logo.png" /></p>
-
-This is a Macrocosm powered Space Station 14 server. To prevent people forking RobustToolbox, a "content" pack is loaded by the client and server. This content pack contains everything needed to play the game on one specific server.
-
-## Links
-
-[Funky Station Discord Server](https://discord.gg/5FqgaAA2qF)
-
-## Documentation/Wiki
-
-The [Funky Station Developer Documentation](https://docs.funkystation.org/) has information on how to contribute to Funky Station. It contains guides, game design documents and helpful tips on how to contribute to a repository.
-
-## Contributing
-
-We welcome everyone to contribute to our fork. Please join our Discord for collaborating!
-We recommend you read the contribution guidelines. [Contribution Guidelines](https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html)
-
-## Building
-
-1. Clone this repo:
-```shell
-git clone https://github.com/funky-station/forky-station.git
-```
-2. Go to the project folder and run `RUN_THIS.py` to initialize the submodules and load the engine:
-```shell
-cd space-station-14
-python RUN_THIS.py
-```
-3. Compile the solution:
-
-Build the server using `dotnet build`.
-
-[More detailed instructions on building the project.](https://docs.spacestation14.com/en/general-development/setup.html)
-
+whats up this is my personal fork of forky station to mess around with
 ## License
 
 This repository is MIT. See `LICENSES` for a copy of the MIT license.
